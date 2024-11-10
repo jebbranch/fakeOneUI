@@ -45,11 +45,11 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "  oneui音效 1.4    "
-  ui_print "  By 狐言"
+  ui_print "  oneui音效 for Hyperos 1.5    "
+  ui_print "  By huxiaoshi"
   ui_print "音效包来自三星note10+，系统版本oneui4.1"
-  ui_print "1.4版本：修改了一些音效，精简了包体大小"
-  ui_print "大剃刀计划·效率优先:精简了一堆不需要被替换的音效，修改了部分不合格的音效，具体可见Github Release"
+  ui_print "1.5：新增三星开机动画，修改部分闹钟铃声"
+  ui_print "请自备救砖模块，死了不关我事"
   ui_print "*******************************"
 }
 
@@ -84,6 +84,7 @@ REPLACE="
 #释放文件，普通shell命令
 on_install() {
   ui_print "释放文件……"
+  ui_print "再次提示，不备救砖，死了活该！"
   unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 }
 
