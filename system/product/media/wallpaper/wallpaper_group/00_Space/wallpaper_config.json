@@ -1,0 +1,45 @@
+{
+    "title": "重叠空间",
+    "titleResId": "wallpaper_overlapping_space_title",
+    "cardType": 1,
+    "count": 9,
+    "slideCount": 9,
+    "randomOrder": false,
+    "wallpapers": [{
+        "thumbPath": "./Space01.jpg",
+        "originPath": "./Space01.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Space02.jpg",
+        "originPath": "./Space02.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Space03.jpg",
+        "originPath": "./Space03.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Space04.jpg",
+        "originPath": "./Space04.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Space05.jpg",
+        "originPath": "./Space05.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Space06.jpg",
+        "originPath": "./Space06.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Space08.jpg",
+        "originPath": "./Space08.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Space07.jpg",
+        "originPath": "./Space07.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./Space09.jpg",
+        "originPath": "./Space09.jpg",
+        "type": "wallpaper"
+    }]
+}

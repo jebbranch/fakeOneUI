@@ -1,0 +1,36 @@
+{
+    "title": "菱形时间",
+    "cardType": 1,
+    "count": 7,
+    "slideCount": 7,
+    "randomOrder": false,
+    "wallpapers": [{
+        "thumbPath": "./rhombus01.jpg",
+        "originPath": "./rhombus01.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./rhombus02.jpg",
+        "originPath": "./rhombus02.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./rhombus03.jpg",
+        "originPath": "./rhombus03.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./rhombus04.jpg",
+        "originPath": "./rhombus04.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./rhombus05.jpg",
+        "originPath": "./rhombus05.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./rhombus06.jpg",
+        "originPath": "./rhombus06.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./rhombus07.jpg",
+        "originPath": "./rhombus07.jpg",
+        "type": "wallpaper"
+    }]
+}

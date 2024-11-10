@@ -1,0 +1,37 @@
+{
+    "title": "渐层",
+    "titleResId": "wallpaper_gradient_title",
+    "cardType": 1,
+    "count": 7,
+    "slideCount": 7,
+    "randomOrder": false,
+    "wallpapers": [{
+        "thumbPath": "./TsubasaTexture001.jpg",
+        "originPath": "./TsubasaTexture001.jpg",
+        "type": "wallpaper"
+    }, {
+        "thumbPath": "./TsubasaTexture002.jpg",
+        "originPath": "./TsubasaTexture002.jpg",
+        "type": "wallpaper"
+      }, {
+        "thumbPath": "./TsubasaTexture003.jpg",
+        "originPath": "./TsubasaTexture003.jpg",
+        "type": "wallpaper"
+       }, {
+        "thumbPath": "./TsubasaTexture004.jpg",
+        "originPath": "./TsubasaTexture004.jpg",
+        "type": "wallpaper"
+       }, {
+        "thumbPath": "./TsubasaTexture005.jpg",
+        "originPath": "./TsubasaTexture005.jpg",
+        "type": "wallpaper"
+       }, {
+        "thumbPath": "./TsubasaTexture006.jpg",
+        "originPath": "./TsubasaTexture006.jpg",
+        "type": "wallpaper"
+       }, {
+        "thumbPath": "./TsubasaTexture007.jpg",
+        "originPath": "./TsubasaTexture007.jpg",
+        "type": "wallpaper"
+       }]
+}

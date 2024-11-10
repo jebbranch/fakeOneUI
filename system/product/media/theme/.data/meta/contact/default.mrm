@@ -1,0 +1,151 @@
+{
+    "localId": "13",
+    "onlineId": null,
+    "productId": null,
+    "downloadPath": "/system/media/theme/default.mtz",
+    "metaPath": "/system/media/theme/.data/meta/contact/default.mrm",
+    "contentPath": "/system/media/theme/default.mtz",
+    "rightsPath": "/system/media/theme/.data/rights/default.mra",
+    "onlinePath": null,
+    "status": 1,
+    "hash": "0",
+    "size": 0,
+    "updatedTime": 0,
+    "platform": 8,
+    "title": "经典",
+    "description": null,
+    "author": "小米主题",
+    "designer": "小米主题",
+    "version": "1.0",
+    "downloadCount": 0,
+    "buildInThumbnails": [
+        "/system/media/theme/.data/preview/default/preview_contact_0.png"
+    ],
+    "buildInPreviews": [
+        "/system/media/theme/.data/preview/default/preview_contact_0.png"
+    ],
+    "titles": {
+        "en_US": "Classic",
+        "ug_CN": "كلاسسىك",
+        "bo_CN": "ལུགས་རྙིང་",
+        "zh_HK": "經典",
+        "zh_TW": "經典",
+        "me_ME": "Classic",
+        "bs_BA": "Klasičan",
+        "mk_MK": "Класично",
+        "mt_MT": "Klassiku",
+        "hy_AM": "Դասական",
+        "sq_AL": "Klasike",
+        "be_BY": "Класіка",
+        "nl_NL": "Klassiek",
+        "da_DK": "Klassisk",
+        "nb_NO": "Klassisk",
+        "eu_ES": "Klasiko",
+        "gl_ES": "Clásico",
+        "ca_ES": "Clàssic",
+        "km_KH": "បុរាណ",
+        "ka_GE": "კლასიკური",
+        "ha_NG": "Na gargajiya",
+        "lv_LV": "Klasiskais",
+        "fi_FI": "Klassinen",
+        "et_EE": "Klassikaline",
+        "az_AZ": "Klassik",
+        "sr_RS": "Класичан",
+        "kk_KZ": "Классика",
+        "ja_JP": "クラシック",
+        "sv_SE": "Klassisk",
+        "sl_SI": "Klasično",
+        "uz_UZ": "Klassik",
+        "hr_HR": "Klasičan",
+        "el_GR": "Κλασσικό",
+        "bg_BG": "Класически",
+        "hu_HU": "Klasszikus",
+        "ne_NP": "क्लासिकल",
+        "bn_BD": "ক্লাসিকাল",
+        "sk_SK": "Klasické",
+        "pl_PL": "Klasyczny",
+        "cs_CZ": "Klasické",
+        "iw_IL": "קלאסי",
+        "fa_IR": "کلاسیک",
+        "ar_EG": " كلاسيكية",
+        "ko_KR": "클래식",
+        "lt_LT": "Klasikinis",
+        "uk_UA": "Класика",
+        "ro_RO": "Clasic",
+        "or_IN": "କ୍ଲାସିକାଲ୍‍",
+        "ur_PK": "کلاسیکی",
+        "ur_IN": "کلاسیکی",
+        "ne_IN": "क्लासिकल",
+        "pa_IN": "ਕਲਾਸੀਕਲ",
+        "gu_IN": "ક્લાસિકલ",
+        "as_IN": "ক্লাছিকেল",
+        "mr_IN": "क्लासिकल",
+        "ml_IN": "ക്ലാസിക്കൽ",
+        "bn_IN": "ক্লাসিকাল",
+        "te_IN": "సాంప్రదాయ",
+        "kn_IN": "ಕ್ಲಾಸಿಕಲ್",
+        "ta_IN": "கிளாசிக்கல்",
+        "hi_IN": "क्लासिकल",
+        "tr_TR": "Klasik",
+        "th_TH": "คลาสสิค",
+        "fr_FR": "Classique",
+        "it_IT": "Classico",
+        "de_DE": "Klassisch",
+        "my_MM": "ဂန္ထဝင်",
+        "es_US": "Clásico",
+        "es_ES": "Clásico",
+        "pt_PT": "Clássico",
+        "pt_BR": "Clássico",
+        "ru_RU": "Классика",
+        "vi_VN": "Cổ điển",
+        "in_ID": "Klasik",
+        "ms_MY": "Klasik",
+        "zh_CN": "经典"
+    },
+    "thumbnails": [],
+    "previews": [],
+    "parentResources": [
+        {
+            "localId": "0",
+            "metaPath": "/system/media/theme/.data/meta/theme/default.mrm",
+            "contentPath": "/system/media/theme/default.mtz",
+            "resourceCode": "theme",
+            "extraMeta": {}
+        }
+    ],
+    "subResources": [],
+    "extraMeta": {},
+    "screenRatio": "18:9",
+    "builtInThumbnails": {
+        "en_US": [
+            "/system/media/theme/.data/preview/default/en_US_contact_0.png"
+        ],
+        "zh_CN": [
+            "/system/media/theme/.data/preview/default/preview_contact_0.png"
+        ]
+    },
+    "builtInPreviews": {
+        "en_US": [
+            "/system/media/theme/.data/preview/default/en_US_contact_0.png"
+        ],
+        "zh_CN": [
+            "/system/media/theme/.data/preview/default/preview_contact_0.png"
+        ]
+    },
+    "authors": {
+        "zh_HK": "小米主題",
+        "en_US": "Xiaomi Themes",
+        "zh_TW": "小米主題",
+        "bo_CN": "ཞའོ་མཱི་གཙོ་དོན།",
+        "zh_CN": "小米主题",
+        "ug_CN": "شياۋمى ئۇسلۇبى"
+    },
+    "designers": {
+        "zh_HK": "小米主題",
+        "en_US": "Xiaomi Themes",
+        "zh_TW": "小米主題",
+        "bo_CN": "ཞའོ་མཱི་གཙོ་དོན།",
+        "zh_CN": "小米主题",
+        "ug_CN": "شياۋمى ئۇسلۇبى"
+    }
+}
