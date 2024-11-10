@@ -45,10 +45,10 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "  oneui音效 1.2     "
+  ui_print "  oneui音效 1.3    "
   ui_print "  By 狐言"
   ui_print "音效包来自三星note10+，系统版本oneui4.1"
-  ui_print "1.2版本：新增空白disconnect.ogg"
+  ui_print "1.3版本：更新媒体音量调节铃声"
   ui_print "*******************************"
 }
 
