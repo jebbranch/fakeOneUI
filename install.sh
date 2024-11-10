@@ -45,9 +45,10 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "  oneui音效       "
+  ui_print "  oneui音效 1.1     "
   ui_print "  By 狐言"
-  ui_print "  音效包来自三星note10+，系统版本oneui4.1"
+  ui_print "音效包来自三星note10+，系统版本oneui4.1"
+  ui_print "1.1版本：移除disconnect.ogg"
   ui_print "*******************************"
 }
 
@@ -82,6 +83,7 @@ REPLACE="
 #释放文件，普通shell命令
 on_install() {
   ui_print "释放文件……"
+  ui_print "请注意安装救砖模块，防止出现异常!"
   unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 }
 
