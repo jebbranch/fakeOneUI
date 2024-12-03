@@ -1,6 +1,6 @@
 id=oneui_sfx
 name=oneui_sound_fx
-version=1.5
-versionCode=6
+version=1.6
+versionCode=7
 author=huxiaoshi
-description=体验来自oneui的SFX吧！（SFX源设备为三星Note10+）
+description=体验来自oneui的SFX吧！（SFX源设备为三星S21FE），若需体验Note10+的SFX，请前往Github项目主页下载1.5版本刷入
