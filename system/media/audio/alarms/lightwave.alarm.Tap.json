@@ -1,0 +1,202 @@
+{
+  "lightForm": [
+    {
+      "point": {
+        "time": 0,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 400,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 500,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 750,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 956,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 1406,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 1706,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 2456,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 3610,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 4060,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 4160,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 4410,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 4648,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 5098,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 5398,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 6148,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 7302,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 7752,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 7852,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 8102,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 8340,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 8790,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 9090,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 9840,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 10994,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 11444,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 11544,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 11794,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 12033,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 12483,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 12783,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 13533,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 15050,
+        "value": 1
+      }
+    }
+  ]
+}

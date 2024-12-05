@@ -1,0 +1,144 @@
+{
+    "lightForm": [
+      {
+        "point": {
+          "time": 253, "value": 1
+        }
+      },
+      {
+        "point": {
+          "time": 353, "value": 100
+        }
+      },
+      {
+        "point": {
+          "time": 473, "value": 100
+        }
+      },
+      {
+        "point": {
+          "time": 573, "value": 1
+        }
+      },
+      {
+        "point": {
+          "time": 676, "value": 1
+        }
+      },
+      {
+        "point": {
+          "time": 681, "value": 100
+        }
+      },
+      {
+        "point": {
+          "time": 826, "value": 100
+        }
+      },
+      {
+        "point": {
+          "time": 926, "value": 1
+        }
+      },
+      {
+        "point": {
+          "time": 1198, "value": 1
+        }
+      },
+      {
+        "point": {
+          "time": 1648, "value": 100
+        }
+      },
+      {
+        "point": {
+          "time": 1898, "value": 1
+        }
+      },
+      {
+        "point": {
+          "time": 2201, "value": 1
+        }
+      },
+      {
+        "point": {
+          "time": 2301, "value": 100
+        }
+      },
+      {
+        "point": {
+          "time": 2411, "value": 100
+        }
+      },
+      {
+        "point": {
+          "time": 2511, "value": 1
+        }
+      },
+      {
+        "point": {
+          "time": 2605, "value": 1
+        }
+      },
+      {
+        "point": {
+          "time": 2610, "value": 100
+        }
+      },
+      {
+        "point": {
+          "time": 2705, "value": 100
+        }
+      },
+      {
+        "point": {
+          "time": 2755, "value": 1
+        }
+      },
+      {
+        "point": {
+          "time": 2846, "value": 1
+        }
+      },
+       {
+		"point": {
+          "time": 3296, "value": 100
+        }
+      },
+      {
+        "point": {
+          "time": 3339, "value": 100
+        }
+      },
+      {
+        "point": {
+          "time": 3343, "value": 1
+        }
+      },
+      {
+        "point": {
+          "time": 3559, "value": 1
+        }
+      },
+      {
+        "point": {
+          "time": 3659, "value": 100
+        }
+	  },
+      {
+        "point": {
+          "time": 3959, "value": 100
+        }
+      },
+      {
+        "point": {
+          "time": 4559, "value": 1
+        }
+	  },
+      {
+        "point": {
+          "time": 5665, "value": 1
+        }
+	  }
+    ]
+}

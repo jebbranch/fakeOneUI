@@ -1,0 +1,154 @@
+{
+  "lightForm": [
+    {
+      "point": {
+        "time": 380,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 430,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 530,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 580,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 690,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 1140,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 1340,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 1590,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 1750,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 1800,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 1900,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 1950,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 2060,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 2510,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 2710,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 2960,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 3313,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 3363,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 3463,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 3513,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 3623,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 4073,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 4323,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 5123,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 6082,
+        "value": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "lightForm": [
+    {
+      "point": {
+        "time": 0,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 500,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 1700,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 3500,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 4072,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 4572,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 5772,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 8072,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 9484,
+        "value": 1
+      }
+    }
+  ]
+}

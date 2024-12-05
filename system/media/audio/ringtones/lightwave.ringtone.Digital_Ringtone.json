@@ -1,0 +1,34 @@
+{
+  "lightForm": [
+    {
+      "point": {
+        "time": 0,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 550,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 1150,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 1700,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 3726,
+        "value": 1
+      }
+    }
+  ]
+}

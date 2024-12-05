@@ -1,0 +1,82 @@
+{
+  "lightForm": [
+    {
+      "point": {
+        "time": 65,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 515,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 815,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 1065,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 1293,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 1743,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 1843,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 2093,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 2294,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 2894,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 3494,
+        "value": 100
+      }
+    },
+    {
+      "point": {
+        "time": 4494,
+        "value": 1
+      }
+    },
+    {
+      "point": {
+        "time": 4750,
+        "value": 1
+      }
+    }
+  ]
+}

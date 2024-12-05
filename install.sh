@@ -1,6 +1,6 @@
 ##########################################################################################
 #
-# oneuifx_for_1+
+# oneuifx_for_HarmonyOS3
 # by Bit
 #
 ##########################################################################################
@@ -45,11 +45,12 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "  oneui音效 for ColorOS on OnePlus 1.0    "
+  ui_print "  oneui音效 for HarmonyOS3.0    "
   ui_print "              By Bit"
-  ui_print "音效包来自三星S21FE，系统版本oneui6.1"
+  ui_print "音效包来自三星 Galaxy Note10 +,系统版本OneUI4.1"
   ui_print "更新内容详见发布时Release自述"
   ui_print "请自备救砖模块，死了不关我事"
+  ui_print "原则支持KSU,请自行测试"
   ui_print "*******************************"
 }
 
