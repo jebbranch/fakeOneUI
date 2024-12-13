@@ -1,6 +1,6 @@
-id=oneui_sfx_coloros
+id=oneui_sfx_AOSPA
 name=oneui_sfx
 version=1.0
 versionCode=0
 author=Bit
-description=体验来自oneui的SFX吧！(SFX源设备为三星Galaxy Note10+)
+description=体验来自oneui的SFX吧！(SFX源设备为三星Galaxy Note10+)\n但是你需要注意：由于类原生系统铃声设置app并非常规媒体选择器，所以你可能需要安装第三方铃声设置软件才能正常使用本模块中的所有来电、短信铃声
