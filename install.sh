@@ -45,11 +45,11 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "  oneui音效 for Hyperos 1.6    "
+  ui_print "  oneui音效 for Hyperos 1.7    "
   ui_print "  By Bit"
   ui_print "注意，本版本开始将更换SFX源设备为S21FE，旧版本将不再维护"
   ui_print "音效包来自三星S21FE，系统版本oneui6.1"
-  ui_print "1.6更新内容详见发布时Release自述"
+  ui_print "更新内容详见发布时Release自述"
   ui_print "请自备救砖模块，死了不关我事"
   ui_print "*******************************"
 }
