@@ -51,7 +51,7 @@ print_modname() {
   ui_print "音效包来自三星S21FE，系统版本oneui6.1"
   ui_print "更新内容详见发布时Release自述"
   ui_print "请自备救砖模块，死了不关我事"
-  ui_print “注意:这个版本的开机动画是针对于Note12T和Poco F5所作,其他机型使用,分辨率可能存在不一致情况，”
+  ui_print "注意:这个版本的开机动画是针对于Note12T和Poco F5所作,其他机型使用,分辨率可能存在不一致情况，"
   ui_print "如果你的手机显示开机动画异常，请尝试进入 /data/adb/modules/oneui_fx/system/product/media 目录下,将bootanimation.zip.bak重命名为bootanimation.zip，病删掉原来的"
   ui_print "*******************************"
 }
