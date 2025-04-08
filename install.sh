@@ -47,7 +47,7 @@ print_modname() {
   ui_print "*******************************"
   ui_print "  oneui音效 for 类原生系统(AOSPA)分支版"
   ui_print "              By Bit"
-  ui_print "音效包来自三星Galaxy Note10+，系统版本oneui4.1"
+  ui_print "音效包来自三星Galaxy S25，系统版本oneui7"
   ui_print "更新内容详见发布时Release自述"
   ui_print "注意事项:由于类原生系统默认铃声选取app不是soundpicker，而是音效app，所以你可能需要安装第三方铃声设置软件才能使用本模块中的所有来电、短信铃声"
   ui_print "请自备救砖模块，死了不关我事"
