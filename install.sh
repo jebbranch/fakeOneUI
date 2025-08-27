@@ -45,11 +45,12 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "  oneui音效 for ColorOS15 1.0    "
+  ui_print "  oneui音效 for ColorOS15 1.0 Beta    "
   ui_print "  By Bit"
   ui_print "音效包来自三星Note10+，系统版本oneui4"
   ui_print "更新内容详见发布时Release自述"
   ui_print "请自备救砖模块，死了不关我事"
+  ui_print "测试版本，存在未知风险"
   ui_print "*******************************"
 }
 
